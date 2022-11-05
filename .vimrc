@@ -38,4 +38,3 @@ set encoding=utf8
  
 " Default filesystem
 set ffs=unix,dos,mac
-
