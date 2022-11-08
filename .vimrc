@@ -7,7 +7,6 @@ set number
 " Highlight cursor line underneath the cursor.
 set cursorline
 
- 
 " no backup
 set nobackup
 set nowb
