@@ -2,7 +2,11 @@
 set number
  
 " Highlight cursor line underneath the cursor vertically.
-set cursorcolumn
+" set cursorcolumn
+
+" Highlight cursor line underneath the cursor.
+set cursorline
+
  
 " no backup
 set nobackup
