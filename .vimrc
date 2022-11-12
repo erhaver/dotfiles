@@ -4,8 +4,9 @@ set number
 " Highlight cursor line underneath the cursor vertically.
 " set cursorcolumn
 
-" Highlight cursor line underneath the cursor.
+" Highlight cursor line.
 set cursorline
+hi CursorLine   cterm=NONE ctermbg=027 ctermfg=white
 
 " no backup
 set nobackup
