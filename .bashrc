@@ -30,6 +30,7 @@ if [ -d ~/.bashrc.d ]; then
 fi
 
 unset rc
+
 HISTTIMEFORMAT="%d/%m/%y %T "
 alias mdpdf="markdown-pdf -p $(which phantomjs)"
 alias youtube-dl-audio='youtube-dl --ignore-errors --output "%(title)s.%(ext)s" --extract-audio --audio-format mp3'
