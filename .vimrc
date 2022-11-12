@@ -44,4 +44,5 @@ set encoding=utf8
 set ffs=unix,dos,mac
 
 " Soft wrap
-set wrap linebreak
+set wrap 
+set linebreak
